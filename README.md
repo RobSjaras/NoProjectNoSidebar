@@ -1,5 +1,5 @@
 # No Project No Sidebar
-A Sublime Text package which closes the side bar if no project is open in the current window.
+A Sublime Text package which closes the side bar if no project is open in the new window.
 
 # MIT License
 
