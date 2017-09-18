@@ -1,6 +1,8 @@
 # No Project No Sidebar
 A Sublime Text package which closes the side bar if no project is open in the new window.
 
+This is for people who use 'Show Open Files' in Projects, but don't want the side bar shown when not in a project.
+
 # MIT License
 
 Copyright (c) 2017 eosol
